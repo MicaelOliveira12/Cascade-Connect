@@ -1,4 +1,4 @@
-package com.kabum.Kabum;
+package com.cascade.CascadeConnect;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

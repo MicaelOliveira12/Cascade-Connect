@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.kabum</groupId>
-	<artifactId>Kabum</artifactId>
+	<artifactId>CascadeConnect</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Kabum</name>
 	<description>Replica do Site da Kabum</description>
@@ -87,10 +87,6 @@
 			<scope>compile</scope>
 		</dependency>
 
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-security</artifactId>
-		</dependency>
 
 	</dependencies>
 
